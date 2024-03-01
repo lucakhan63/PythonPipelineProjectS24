@@ -17,15 +17,15 @@ python pppmasterfile.py <input_directory> <output_directory_file_path>
 ```
 
 **Package Dependencies**
-
-- os (used to run command line commands from Python)
+ - BioPython
+ - argparse (process input from command line)
+ - os (used to run command line commands from Python)
  - sratoolkit 
  - kallisto 
  - statistics 
- - sleuth 
- - dplyr 
- - blast+ 
- - BioPython  
+ - sleuth (via R)
+ - dplyr (via R)
+ - blast+ (including blast_command)
  - pathlib (used for finding, establishing, and accessing files and directories from the user's system with minimal user input)
  - argparse
 
