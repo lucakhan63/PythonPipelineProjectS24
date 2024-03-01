@@ -1,4 +1,4 @@
-# PythonPipelineProjectS24
+# Python Pipeline Project S24
 
 This is the repository for my (Ali Khan) attempt at completing the requirements of the python pipeline project for COMP 383 for the Spring 2024 semester for TRACK 1.
 
